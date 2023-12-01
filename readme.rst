@@ -3,4 +3,4 @@ NOTE
 ####
 
 
-Some only model only using html to show the information, didn't connect with back-end.
+Some models use only HTML to display information without connecting to the back-end.
